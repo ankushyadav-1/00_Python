@@ -1,1 +1,0 @@
-#project is done by store data in text file and take output from text file
